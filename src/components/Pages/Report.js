@@ -1,3 +1,6 @@
 import React from "react";
-const Report = () => {};
+import Layout from "../Layouts/Layout";
+const Report = () => {
+  return <Layout>This is report Page.</Layout>;
+};
 export default Report;
